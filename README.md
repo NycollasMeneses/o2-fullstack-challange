@@ -16,7 +16,7 @@ Este projeto é uma aplicação completa de gestão de estoque, com cadastro de 
 ### 1. Clone o repositório
 
 ```bash
-git clone (https://github.com/NycollasMeneses/o2-fullstack-challange)
+git clone [https://github.com/NycollasMeneses/o2-fullstack-challange]
 cd estoque-app
 ```
 
